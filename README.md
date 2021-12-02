@@ -2,5 +2,5 @@
 DIGIT HD Vision Tactile Sensor and TACTO simulator (Meta AI)
 
 <p align="center">
-<img src="tacto_braille.png"/>
+<img src="tacto_braille2.png"/>
 </p>
